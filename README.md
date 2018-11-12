@@ -1,1 +1,3 @@
-# class_11-12-18
+# Class 11-12-18
+
+Some notes.
